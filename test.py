@@ -3,4 +3,5 @@ def test():
     print("创建主分支")
     print("创建分支02")
     print("创建分支001")
+    print("创建分支0001")
 test()
