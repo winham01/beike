@@ -10,7 +10,7 @@ import numpy as np
 from concurrent.futures import ThreadPoolExecutor
 import fake_useragent
 
-# 提交测试
+# 测试修改之后本地update
 class FindHouse:
 
     def __init__(self):
