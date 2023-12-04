@@ -6,5 +6,5 @@ def test():
     print("创建分支0001")
     print("创建分支02")
     print("创建分支0001")
-    print("new test")
+    print("new test000")
 test()
