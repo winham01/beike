@@ -5,4 +5,6 @@ def test():
     print("创建分支001")
     print("创建分支0001")
     print("创建分支02")
+    print("创建分支0001")
+    print("new test")
 test()
